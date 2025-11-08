@@ -1,0 +1,17 @@
+# Ignore dossier d’images détectées
+detected_faces/
+images/
+*.jpg
+*.png
+
+# Ignore fichiers temporaires
+__pycache__/
+*.pyc
+
+# Environnement virtuel
+.venv/
+env/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
